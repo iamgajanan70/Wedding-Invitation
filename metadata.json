@@ -1,0 +1,6 @@
+{
+  "name": "Auspicious Union - Interactive Indian Wedding Invitation",
+  "description": "An interactive Indian wedding invitation featuring floating peacock feathers, an Om booting screen, scratchable golden date card, countdown, Google calendar integration, and photo album, styled in a burnt vintage paper thematic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
